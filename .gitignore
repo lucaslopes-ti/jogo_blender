@@ -1,0 +1,43 @@
+# Arquivos temporários do Blender
+*.blend1
+*.blend2
+*.blend3
+
+# Arquivos de backup
+*.bak
+*.backup
+*~
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos de log
+*.log
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Arquivos de compilação
+*.o
+*.obj
+*.exe
+*.dll
+*.a
+*.lib
+
+# Arquivos de teste
+test_*.blend
+*_test.blend
+
