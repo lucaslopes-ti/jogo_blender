@@ -32,7 +32,6 @@ __pycache__/
 # Arquivos de compilação
 *.o
 *.obj
-*.exe
 *.dll
 *.a
 *.lib
@@ -41,5 +40,5 @@ __pycache__/
 test_*.blend
 *_test.blend
 
-# Git LFS - descomente a linha abaixo se usar Git LFS
-# !jogo_blender.blend.exe
+# Git LFS - permite o executável principal
+!jogo_blender.blend.exe
