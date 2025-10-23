@@ -41,7 +41,7 @@ Consulte os arquivos em `engine.license/` para informações sobre licenças.
 
 ## 👤 Autor
 
-Desenvolvido por [Seu Nome]
+Desenvolvido por Lucas Lopes - Senai
 
 ## 📧 Contato
 
