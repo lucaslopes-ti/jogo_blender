@@ -41,3 +41,5 @@ __pycache__/
 test_*.blend
 *_test.blend
 
+# Git LFS - descomente a linha abaixo se usar Git LFS
+# !jogo_blender.blend.exe

@@ -15,6 +15,13 @@ Jogo desenvolvido utilizando Blender Game Engine (UPBGE).
 - Windows 10 ou superior
 - Arquitetura x64
 
+## 📥 Download do Executável
+
+O executável do jogo (`jogo_blender.blend.exe` - ~117MB) está disponível através de:
+
+- **GitHub Releases**: [Ver Releases](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/releases)
+- Ou baixe todo o repositório usando Git LFS
+
 ## 📋 Sobre o Projeto
 
 Este jogo foi desenvolvido utilizando a engine de jogos integrada ao Blender, permitindo criação de jogos 3D diretamente no ambiente do Blender.
@@ -29,7 +36,7 @@ Este jogo foi desenvolvido utilizando a engine de jogos integrada ao Blender, pe
 
 ```
 jogo_blender/
-├── jogo_blender.blend.exe  # Executável principal do jogo
+├── jogo_blender.blend.exe  # Executável principal do jogo (~117MB)
 ├── 4.4/                    # Arquivos de configuração do Blender
 ├── blender.shared/         # Recursos compartilhados
 └── engine.license/         # Licenças do engine
@@ -46,4 +53,3 @@ Desenvolvido por [Seu Nome]
 ## 📧 Contato
 
 Para dúvidas ou sugestões, entre em contato através do GitHub.
-
